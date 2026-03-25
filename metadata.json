@@ -1,0 +1,7 @@
+{
+  "name": "Prashna AI By T.N. Banerjee",
+  "description": "Master Vedic Astrology Prashna Shastra (Horary Astrology) with KP System, Tajik Shastra, and Parashari principles powered by Gemini 3.1 Pro.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
